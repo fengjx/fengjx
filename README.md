@@ -17,6 +17,8 @@
 [![](https://img.shields.io/github/followers/fengjx?label=follow&style=social)](https://github.com/fengjx)
 [![](https://img.shields.io/badge/博客-blog.fengjx.com-blue?style=flat-square&logo=battledotnet)](http://blog.fengjx.com)
 
+不予评判地关注当下
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fengjx/fengjx/master/profile-3d-contrib/profile-night-green.svg">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/fengjx/fengjx/master/profile-3d-contrib/profile-green.svg">
