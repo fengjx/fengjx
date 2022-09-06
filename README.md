@@ -18,8 +18,6 @@
 
 种一棵树最好的时间是十年前，其次是现在！
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fengjx/fengjx/master/profile-3d-contrib/profile-night-green.svg">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/fengjx/fengjx/master/profile-3d-contrib/profile-green.svg">
