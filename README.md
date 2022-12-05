@@ -16,7 +16,7 @@
 [![](https://img.shields.io/github/followers/fengjx?label=follow&style=social)](https://github.com/fengjx)
 [![](https://img.shields.io/badge/博客-blog.fengjx.com-blue?style=flat-square&logo=battledotnet)](http://blog.fengjx.com)
 
-种一棵树最好的时间是十年前，其次是现在！
+找工作中，接项目。
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fengjx/fengjx/master/profile-3d-contrib/profile-night-green.svg">
